@@ -73,12 +73,11 @@ Documentación oficial de Laravel
 Stack Overflow - Soluciones a errores específicos
 Inteligencia Artificial - Asistencia en resolución de problemas
 
-## 9. Desarrollado por:
+## 9. Footer
+Desarrollado por:
 Nombre: Luis Calderón
 Curso: Ingeniería Web
 Instructor: Ing. Irina Fong
 Universidad: Universidad Tecnológica de Panamá
-
-## 10. Fecha de Ejecución
 Laboratorio realizado: 28 de septiembre de 2025
 Fecha de entrega: 29 de septiembre de 2025
